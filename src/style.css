@@ -1,8 +1,9 @@
 @font-face {
     font-family: 'MyFont';
-    src: url('./Arvo-Regular.ttf') format('ttf'),
-    url('./IBMPlexSerif-Regular.ttf') format('ttf');
-    font-size: 5rem;
+    src: url('./Grenze.ttf') format('ttf'),
+      url('./Trocchi.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
   }
 
 .hello{
